@@ -1,6 +1,6 @@
-# Task Management Application
+# Trello-lite Project Management App
 
-A full-stack **Task Management Application** built using the **MERN** (MongoDB, Express.js, React.js, Node.js) stack. Users can register, log in, and manage their tasks securely. The application includes authentication, authorization, pagination, and input validation for an improved user experience.
+A full-stack **Trello-lite Project Management App** built using the **MERN** (MongoDB, Express.js, React.js, Node.js) stack. Users can register, log in, and manage their tasks securely. The application includes authentication, authorization, pagination, and input validation for an improved user experience.
 
 ---
 
@@ -39,7 +39,7 @@ A full-stack **Task Management Application** built using the **MERN** (MongoDB, 
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/Kirissh/TaskManager.git
+ 
 ```
 
 ---
@@ -61,9 +61,9 @@ npm install
 Create a **.env** file and configure your environment variables:
 
 ```env
-PORT=5000
+PORT=4005
 MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
+ 
 ```
 
 Start the backend server:
@@ -96,11 +96,7 @@ npm run dev
 
 ---
 
-## API Documentation
-
-For a complete guide to available API endpoints, check out the **[Postman API Documentation](https://documenter.getpostman.com/view/12853812/2sA35Jzesu)**.
-
----
+ 
 
 ## How to Use
 
