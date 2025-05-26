@@ -12,7 +12,7 @@ A full-stack **Trello-lite Project Management App** built using the **MERN** (Mo
 ✅ **Pagination** – Efficient task listing with pagination for better performance.  
 ✅ **Input Validation** – Secure and structured input handling using `Validator`.  
 
----
+----
 
 ## Technologies Used
 
